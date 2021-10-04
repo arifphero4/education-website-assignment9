@@ -1,0 +1,43 @@
+[
+    
+    {
+            "key":101,
+            "title": "Primary Care",
+            "about": "this course is  for Kinder Garden to Primary level students",
+            "Fee" : 1200,
+            "duration": 10,
+            "classes" : 36,
+            "img": "https://previews.123rf.com/images/imtmphoto/imtmphoto1703/imtmphoto170300057/73793305-asian-primary-school-student-looking-at-camera-smiling-while-studying-in-classroom-.jpg"
+            
+    },
+    {
+            "key":102,
+            "title": "Junior Care",
+            "about": "this course is  for class 6 to class 8 students",
+            "Fee" : 1500,
+            "duration": 10,
+            "classes" : 30,
+            "img": "https://media.istockphoto.com/vectors/trendy-3d-comical-font-design-colorful-alphabet-typeface-vector-id1054929652?s=612x612"
+            
+    },
+    {
+            "key":103,
+            "title": "SSC care",
+            "about": "this course is  for SSC cadidates",
+            "Fee" : 2000,
+            "duration": 6,
+            "classes" : 24,
+            "img": "https://www.nicepng.com/png/full/361-3615790_for-students-chittagong-govt-high-school-logo.png"
+            
+    },
+    {
+            "key":104,
+            "title": " HSC care",
+            "about": "this course is  for HSC cadidates",
+            "Fee" : 3000,
+            "duration": 4,
+            "classes" : 16,
+            "img": "https://media-eng.dhakatribune.com/uploads/2020/02/img-1290-1580836092191.jpg"
+            
+    }
+]

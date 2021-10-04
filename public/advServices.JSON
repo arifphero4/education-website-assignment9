@@ -1,0 +1,83 @@
+[
+    {
+        "key":201,
+        "title": "Spoken English",
+        "details": "Learn spoken English online. 80+ video lessons, quizzes, and notes to help you speak fluently in English.",
+        "price" : 3000,
+        "duration": 25,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg"
+        
+    },
+    {
+        "key":202,
+        "title": "English Grammar Crash Course",
+        "details": "Learn basic English grammar without having to memorize grammar rules. Avoid common mistakes. Become more confident in your English grammar skills today!",
+        "price" : 2500,
+        "duration": 20,
+        "img":"https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FEnglish-Grammar-Crash-Course---Title-Thumbnail.jpg"
+        
+    },
+    {
+        "key":203,
+        "title": "Microsoft PowerPoint",
+        "details": "Learn PowerPoint from Beginner to Expert Level now in just one online course. 50 PowerPoint online tutorials are there to take you to the next level",
+        "price" : 3500,
+        "duration": 15,
+        "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-PowerPoint-%28Beginner-to-Expert%29---Title-Thumbnail.jpg"
+        
+    },
+    {
+        "key":204,
+        "title": "Microsoft Excel",
+        "details": "Learn Microsoft Excel online from beginner to expert level. Enroll in course now with 50 Excel tutorial, quiz, workbook and many more.",
+        "price" : 1200,
+        "duration": 8,
+        "img":"https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-Excel-Beginner-to-Expert---Title-Thumbnail.jpg"
+        
+    },
+    {
+        "key":205,
+        "title": "Cartoon Animation",
+        "details": "Want new cartoon drawing ideas? Enroll in Cartoon Animation Online class with 10 tutorial videos, quiz and notes.",
+        "price" : 27,
+        "duration": 12,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Cartoon%20Animation_Landscape.jpg"
+        
+    },
+    {
+        "key":206,
+        "title": "Web Design",
+        "details": "A complete guideline of website designing through 46 Web design tutorial, quiz, notes and many more.",
+        "price" : 3500,
+        "duration": 22,
+        "img":"https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWeb-Design---Title-Thumbnail.jpg"
+        
+    },
+    {
+        "key":207,
+        "title": "Graphic Designing with PowerPoint",
+        "details": "Graphic Design Course is now online. Learn graphic design with PowerPoint and become a pro in it.",
+        "price" : 4000,
+        "duration": 18,
+        "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Graphic%20Designing%20w.%20PPPT_Landscape.jpg"
+        
+    },
+    {
+        "key":208,
+        "title": "Facebook Marketing",
+        "details": "Build a highly successful brand on Facebook by learning in-depth Facebook Marketing strategies and become an expert in Facebook Marketing today!",
+        "price" : 1500,
+        "duration": 9,
+        "img":"https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Facebook%20Marketing_Landscape.jpg"
+        
+    },
+    {
+        "key":209,
+        "title": "Learn Freelancing",
+        "details": "Freelancing course is now available in Bangla. Learn freelancing from home in just one course with tutorials, notes, quizzes and cheatsheets.",
+        "price" : 3200,
+        "duration": 20,
+        "img":"https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FGhore-Boshe-Freelancing---Title-thumbnail.jpg"
+        
+    }
+]
