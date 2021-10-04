@@ -13,7 +13,7 @@ const Details = (props) => {
             <img className="mt-3"  src={img} alt="" />
             <h2 className="py-3">{title}</h2>
             <p>{details}</p>
-            <p> duration: {duration}hr </p>
+            <p> Duration: {duration}hr </p>
             <p>Price: <FontAwesomeIcon icon={faDollarSign} />{price}</p>
 
             

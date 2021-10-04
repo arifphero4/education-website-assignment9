@@ -8,7 +8,7 @@ const About = () => {
       <h1 className="p-3">Who are we?</h1>
      <Row>
        <Col className="align-self-center">
-        <p  >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat atque totam dignissimos ea nobis magnam earum ex reprehenderit ducimus. Dicta.</p>
+        <p> "Technique Easy Education is an online teaching platform based in Dhaka, Bangladesh. Here at TEE, we’re providing quality education that will help our country's students to get education service near at hand. Our goal to reach rural students who don't get good educational services. "</p>
         
        </Col>
        <Col>

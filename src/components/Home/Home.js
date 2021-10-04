@@ -14,7 +14,7 @@ const Home = () => {
    <div>
      <div className="header py-5" >
          <h1> Technique Easy Education</h1>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, assumenda?</p>
+         <p>believe in Hardwork not just in luck.</p>
       </div>
      <h1 className="py-3">Featured Courses</h1>
 

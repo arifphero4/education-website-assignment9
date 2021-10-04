@@ -9,7 +9,7 @@ const Footer = () => {
     }
     return (
         <div  style={footer}>
-            <h3>Copyright © 2021, Technique Easy Education - All Rights Reserved</h3>
+            <p>Copyright © 2021, Technique Easy Education - All Rights Reserved</p>
         </div>
     );
 };
