@@ -1,10 +1,10 @@
 import React from 'react';
+import img from '../../images/maxresdefault.jpg'
 
 const Error = () => {
     return (
-        <div>
-            <h1>error 404</h1>
-            <p>page not found</p>
+        <div style={{height:"100vh"}}>
+            <img  className="error" src={img} alt="" />
         </div>
     );
 };

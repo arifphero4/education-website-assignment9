@@ -13,7 +13,7 @@ const Navigation = () => {
       <Container>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
+          <Nav className="mx-auto">
             
             <NavLink
               style={navStyle}
@@ -25,7 +25,7 @@ const Navigation = () => {
             <NavLink
               style={navStyle}
               activeStyle={{ color: "orange", fontWeight: "bold" }}
-              to="/Services"
+              to="/services"
             >
               Services
             </NavLink>
@@ -35,6 +35,13 @@ const Navigation = () => {
               to="/about"
             >
              About
+            </NavLink>
+            <NavLink
+              style={navStyle}
+              activeStyle={{ color: "orange", fontWeight: "bold" }}
+              to="/contact"
+            >
+             Contact
             </NavLink>
           </Nav>
         </Navbar.Collapse>

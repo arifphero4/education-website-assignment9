@@ -7,6 +7,7 @@ import Home from "./components/Home/Home.js";
 import About from "./components/About/About.js";
 import Error from "./components/Error/Error";
 import Footer from "./components/Footer/Footer";
+import Contact from "./components/Contact/Contact";
 
 
 function App() {
@@ -24,12 +25,15 @@ function App() {
            <Home></Home>
           </Route>
 
-          <Route path="/Services">
+          <Route path="/services">
             <Services></Services>
           </Route>
 
           <Route path="/about">
             <About></About>
+          </Route>
+          <Route path="/contact">
+            <Contact></Contact>
           </Route>
 
           <Route exact path="*">
