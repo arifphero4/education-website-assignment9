@@ -1,10 +1,10 @@
-# World Leaders Forum
+# Technique Easy Education
 
-This a website about how world leaders can collect funding for prevent Climate Change.
+This a website about a educational institute based in dhaka who teaches students via online.
 
 ## Project 
 
-website link: https://leaders-forum-arifphero4.netlify.app/
+website link: https://educational-website-arifphero4.netlify.app/
 
 ## Elements used for project
 
@@ -13,7 +13,9 @@ website link: https://leaders-forum-arifphero4.netlify.app/
 - NODE.js
 - React.js
 - Vanilla CSS
+- React Bootstrap
+- Font Awesome
 
 ## Features
-- You can see total funding to prevent CLIMATE CHANGE challenge
-- You will get information about how much money leaders are contributing
+- You can see your our featured courses.
+- You will get information about our advanced courses.
