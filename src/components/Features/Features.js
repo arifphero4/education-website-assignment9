@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDollarSign, faEye, faUser } from '@fortawesome/free-solid-svg-icons';
 
 
+
 const Features = (props) => {
     console.log(props.feature)
     const {title,  about,  duration, classes, img, Fee} = props.feature;
